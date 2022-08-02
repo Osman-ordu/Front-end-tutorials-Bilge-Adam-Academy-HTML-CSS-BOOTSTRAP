@@ -1,0 +1,122 @@
+/* universal reset */
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+/* h1 {
+  color: blue;
+} */
+/* button {
+  background-color: red;
+}
+#login {
+  background-color: #d8315b;
+}
+.posted {
+  background-color: #897c80;
+} */
+/* a {
+  color: red;
+} */
+/* 
+span a {
+  color: red;
+} */
+
+/* section span a {
+  color: red;
+} */
+
+/* .dislike a {
+  color: red;
+} */
+
+/* footer a {
+  color: red;
+} */
+/* input + button {
+  background-color: #c42021;
+}
+h2 + button {
+  font-size: 20px;
+  background-color: #2a7f62;
+} */
+
+/* footer > a {
+  color: #815355;
+} */
+
+/* header a{
+  font-size: 30px;
+  color: teal;
+}
+
+#dislikes a {
+  color: red;
+  font-weight: bold;
+} */
+/* input[type='password'] {
+  color: #840032;
+}
+/* section[class='dislike'] {
+  color: purple;
+} */
+/* section.dislike {
+  color: purple;
+}  */
+/* a[href*='Google' i] {
+  color: cadetblue;
+}
+button:hover {
+  background-color: indigo;
+} */
+/* .dislike button:hover {
+  background-color: coral;
+} */
+/* a:hover {
+  text-decoration: overline;
+}
+.dislike a:hover {
+  font-weight: bold;
+}
+.dislike button:active {
+  background-color: green;
+}
+.like {
+  background-color: darkblue;
+}
+
+.like:nth-of-type(2n + 1) {
+  background-color: darkorange;
+} */
+/* h2::first-letter {
+  font-size: 50px;
+}
+h2::selection {
+  background-color: darkred;
+}
+::selection {
+  background-color: gold;
+} */
+/* h1,
+h2 {
+  background-color: blue;
+}
+h1,
+h2 {
+  background-color: red;
+} */
+/* .like button:hover {
+  background-color: chartreuse;
+  color: darkslategray;
+}  */
+#button button:hover {
+  background-color: red;
+}
+
+button:hover {
+  background-color: blue !important;
+}
+/* #login {
+  color: red;
+} */
